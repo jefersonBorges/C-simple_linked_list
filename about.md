@@ -4,6 +4,7 @@ These exercises are a practice of C language inside the discipline of data struc
 
 ## content
 
+- linked list
 - pointers
 - functions
 - malloc()
